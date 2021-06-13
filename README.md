@@ -1,4 +1,6 @@
 # 新能源领域专利语料库数据量统计及样例展示
+![image](https://user-images.githubusercontent.com/25188382/121811356-c360e500-cc96-11eb-9171-93561dece8e5.png)
+
 
 |1|2|3|
 |4|5|6|
