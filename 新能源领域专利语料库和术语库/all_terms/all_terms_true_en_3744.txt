@@ -1,0 +1,3745 @@
+gas seal
+duplex transmission
+up wind
+neutron leakage
+roughness factor
+background noise level
+terminal connector
+Coarse particle
+solar contribution
+natural radioactive element
+short-circuit characteristic
+nuclear radius
+center distance
+Evacuated-tube  collector,evacuated tubular collector
+thimble
+electricity
+Fine particle
+hanger
+electric coupling
+flexible pliers
+non absorbing medium
+GAW contributing station
+coefficient of torsional rigidity
+shallow geothermal energy
+atmospheric irradiance
+hail
+carbon dioxide
+accuracy(for WTGS)
+nuclear dynamics
+nuclear power plant simulator
+sampling flask
+neutron decay
+power diode
+type test
+nuclear turbojet
+transuranium element
+centralized control
+radiochemical purity
+total irradiation (total insolation)
+unit control
+filter
+peak value
+proton linear accelerator; proton linac
+cross leakage
+solid density
+suspension clamp
+frequency control method
+rated refueling pressure
+normalizing factor
+neutron speed
+nuclear engineer
+nuclear materials management and safeguards systems
+nuclear wave function
+spoiling flap
+electric current
+dust-protected
+output coupling
+air dried basis
+disk matrix pellet die
+pendulum wave power device
+open system  US
+temperature
+pitch
+characteristic curve
+coil
+nuclear refrigeration
+BD
+transportation condition
+differential particle flux density
+ocean thermal energy conversion ;OTEC
+engagement, mesh
+test data
+equivalent optical diameter
+pressure gauge
+global geothermal belts
+decontamination factor
+cyclotron radiation
+start response time to rated power
+straggling
+nuclear warhead
+primordial radionuclide
+gas cleanup
+over power
+shift converter
+working standard solar cell
+multipole (geometry) configuration
+substack
+safety
+service life
+forestry biomass
+nuclear instrument
+helical gear
+non nuclear weapon state
+reference roughness
+nuclear control
+signal
+nuclear supplier guidelines
+manifold
+fuel cell system
+untwist
+bicoil
+the equivalent circuit of a solar cell
+cosmos chemistry
+volumetric power density
+emission rate
+feed start/end position
+nuclear ash
+lifetime
+photovoltage
+concentration polarization
+non polar bond
+celestial south pole
+collecting wave reservoir
+gas leakage
+tip speed
+nuclear rotation
+nuclear statistics
+non proliferation treaty of nuclear weapons
+internal resistance
+tidal excursion
+normal pitch
+electrical efficiency
+relative spectral response
+water consumption
+nuclear absorption
+radioactive dating
+nuclear scattering
+radiochemistry
+explosion
+load case
+total irradiance
+cylindrical cell
+electric
+biofuel
+radiation crosslinking
+pyranometer
+rated input capacity
+Voltage Meter
+Charge Regulator
+Hub(for wind turbines)
+mean line
+bremsstrahlung
+occupied space
+optimum operating voltage
+gears with addendum modification
+nuclear potential energy
+inductance
+lock actuator
+non-load current
+neutron logging
+accuracy
+mean geometric of airfoil
+sampling test
+nuclear safeguards
+oil cooler
+yawing
+neutron velocity selector
+nucleon encounter
+system
+radiation purity
+distortion
+beta particle
+GAW global station
+radiant power
+dynamic coupling
+nuclear cloud
+rated wind speed
+slip
+ocean energy from salinity gradients
+coherent scattering
+variable chord blade
+geothermal fluid quality
+synchronous generator
+turbulence intensity
+neutron proton correlation effect
+radon daughter
+radiation grafting copolymerization
+load voltage
+selection rule of Y transition
+solar disk ； sun ＇ s disk
+analog signal
+transformer fitted with OLTC
+airfoil
+neutron source reactor
+proton
+operating pressure
+wheel , gear
+step voltage
+rated tip-speed ratio
+space charge effect
+pure fuel cell vehicle；pure FCV
+insulation resistance monitoring system
+nuclear denaturant
+nuclear emulsion
+starting power at high temperature
+intrinsic conversion efficiency (intrinsic efficiency)
+densification
+nuclear fuel recovery
+gust
+parity
+plasma accelerator
+repeatability
+start-up time
+rock-soil thermal response test
+isotope
+zenith distance
+pressure drop
+gasification
+nuclear fusion reactor triggered by laser
+nuclear reaction kinetics
+environmental impact assessment of ocean energy
+storage
+AC induction electrical machine
+multipolarity of Y transition
+mononuclear
+neutron irradiation
+non-working flank
+nuclear barrier
+diameter
+power battery system
+density of wave energy
+neutron induced thermal stress
+relative radiometer
+reference wind speed
+acknowledgement
+nuclear instrumentation system
+short – circuit current
+direct solar radiation
+microscopic cross section
+alarm
+nuclear disruption
+energy density
+electromagnetic interaction
+angular cross section
+solarimeter
+tap position information
+nuclear model of the atom
+braking releasing
+tooth thickness
+nuclear bombardment
+natural radioactivity
+limited current circuit
+ocean thermal energy conversion (OTEC)
+load case
+auxiliary device
+cropping
+proton induced X-ray emission, PIXE
+hydrothermal resources
+base
+neutron to gamma sensitivity ratio
+scavenging
+aerosol volume concentration
+Karina cycle
+test for power output change
+neutron yield per absorption
+ocean burial
+sensor
+first class pyrheliometer
+nuclear electromagnetic pulse
+lightning current
+neutron diffraction
+nuclear thermal power plant
+nuclear equipment
+neutron rest mass
+multiple basin project
+nuclear powered carrier
+neutron activation analysis (NAA)
+densified biofuel
+nuclear explosion engineering
+transmittance
+transmission coefficient
+nickel plating
+zone time
+tidal lagoon
+radiation width
+hydraulic cylinder
+normal cell
+conversion efficiency
+estimated individual noise value
+charging plug
+life test
+nuclear calculation
+ash fusion test
+membrane electrode assembly; MEA
+nuclear airburst
+diffuse irradiance
+total ionization
+nuclear materials safeguards
+K-capture
+Bypass Diode
+nuclear design calculation
+nuclear chemistry
+pocket-calculator
+power source
+nuclear charge
+water head of driving a tidal plant
+reaction energy
+down wind
+neutron interaction
+bone dry material
+celestial meridian
+interface
+battery pack
+constant power discharge
+halogenated greenhouse gases
+high voltage power system
+nuclear induction
+partial level width
+blocking effect
+fault
+maximum bare table acceletation
+ring matrix pellet press die
+service plug
+net electrical power
+nuclear ship
+yield test
+voltage-current characteristics
+wave peak frequency
+motor
+odule surface temperature
+maximum power (for wind turbine)
+pinion
+non ionized atom
+position indicator
+geothermal power generation
+vibration frequency
+Solar Collectors
+limiting value
+field reliability test
+Positive sampling
+percentage of sunshine
+delta connection
+protective earthing
+silica geothermometers
+nuclear safety research reactor
+lithiumion battery
+open-cycle system
+hemispherical temperature
+new production reactor for plutonium and electricity production
+hydraulic pump
+nuclear isobar
+heliograph
+serviceability limit states
+reference device
+storage state
+occupation probability
+winding factor
+power
+nuclear overlord
+atomic number
+net total irradiance
+hydrogen storage material
+tidal current turbine
+thermosiphon system
+non pressurized reactor
+earthing switch
+over power (for wind turbine)
+turn buckle
+direct fuel cell
+nacelle
+nonleakage probability
+charging inlet
+concentration ratio
+control apparatus
+laboratory standard
+single cell
+byte
+fuel cell engine net output power
+continuous power
+parking brake
+tip losses
+geothermal field
+nuclear target
+uranium series
+nuclear reactor containment
+nuclear reactor lattice
+obstruction height .
+wind shear
+sample preparation
+nuclear fuel reprocessing plant
+nucleus of condensation
+actinide element ; actinide ; actinoid
+radioactive series
+nuclear potential
+relaxation time
+nuclear resonance absorption
+activation cross section
+safe marking
+turbulence intensity
+wave front
+strain clamp
+full load
+tidal level
+rated voltage
+calendar life
+lower flammability limit;LFL
+parasitic load
+continuous output characteristic
+single basin project
+quark degree of freedom in nuclei
+average noise level
+aerosol scattering coefficient
+solar declination
+negatron
+hot start
+capacity of reservoir
+available capacity
+specific power density
+air supply system
+rated value
+safety belt
+isodiaphere
+equipment failure information
+residual capacity gauge
+ambient temperature
+charging cable
+tapered element oscillating microbalance, TEOM
+pulse solar simulator
+survival wind speed
+strength function
+active current
+high frequency noise
+distance constant
+hadron
+operational modulation
+battery control unit$BCU
+niobium
+nuclear conversion
+x-ray fluorescence spectrometry, XRF
+double-helical gear
+non destructive estimation of hydrogen
+pyrheliometer
+radioactive tracer
+atmosphere watch station
+software
+channeling effect
+neutron sensitive material
+catalyst loading
+static pressure
+natural abundance
+nuclear debris
+neutron leakage spectrum
+power density
+periodic vibration
+greenhouse gas ;GHG
+standard uncertainly
+wet storage
+nuclear electron
+influence by the tower shadow
+hemispherical reflectance
+nuclear resonance level
+annual average wind speed
+collector ring
+sun gear
+differential energy flux density
+effective delayed neutron fraction
+neutron stripping
+nuclear fuel cycle
+motor over revolution warning device
+measurement power curve
+parallel connection
+secondary standard solar cell
+layer level class
+nuclide abundance
+overcharge
+open-phase protection
+remote terminal unit (RUT)
+minicomputer program control
+observation point
+nuclear process
+sliding shoes
+radiant flux
+mill residue
+nuclear reactor safety
+nuclear weapon technology
+nominal power
+hour angle
+internal short circuit
+macroscopic cross section
+rated wind speed(for wind turbine)
+transfer ration
+nuclear magnetic alignment
+special purpose spanner
+clean dry air
+regenerative braking control
+alternating current machine
+nuclear decomposition
+parked wind turbine
+nuclear plant reliability data system
+geothermal resources assessment
+ratio of tip-section chord to root-section chord
+parent nuclide
+connection
+iterative earth
+neutron proton reaction
+chord blade
+curvature function of airfoil
+nilsson model
+nuclear torpedo
+light
+mean monthly temperature
+gauge
+nuclear attack threat
+Watts
+nuclear star
+neutron level gage
+snow melting by geothermal energy
+solar energy
+single point failure
+neutron howitzer
+nuclear material identification system
+liner induction accelerator
+double-way operation
+cold start
+nuclear monopoly
+boiling
+locking set
+indoor climate
+nuclear dipole moment
+sinter
+nuclear paramagnetic resonance
+ultimate limit state
+marking
+biomass
+vent plug
+outlet
+regenerated energy
+thyratron
+linear ionization
+nuclear test aircraft
+drive direction control
+nuclear ship regulation
+ocean energy
+marine energy
+purge
+shutdown time
+aerodynamic chord of airfoil
+inorganic ion exchanger
+solar － only system
+normal incidence calibrating method
+face width
+analogue control
+nuclear raw material technology
+protective circuit
+pnactical module efficiency
+interface point
+engineering prototype of ocean energy
+spectral hardening
+gas diffusion anode
+mbient temperature
+nadir
+artificial radioactivity
+sea current energy
+receiver
+WM0 primary standard
+neutron time of flight
+induced radioactivity
+angular distribution of Y decay
+alpha particle
+rated load torque
+vector control
+insulator
+radiocoloid
+high energy application
+reservoir engineering
+dynamitron
+closed system ， sealed system ， unvented system
+reformate gas
+influence by the tower shadow
+residue
+motor efficiency
+quartz clock
+over voltage protection
+data circuit
+absorber plate
+seasalt aerosol
+automatic control system
+nuclear mining
+rated turning speed of rotor
+tidal energy
+nuclear gamma ray resonance absorption
+nuclear instability
+low-medium temperature convective geothermal system
+nuclear photodisintegration
+nuclear application
+cosmogenic radionuclide。
+liquid-drop model
+free atom cross section
+radioactive capture
+fission chemistry
+polynuclear
+no-load operation
+nuclear paramagnetism
+nuclear transformation
+direct current
+series connection
+protected against the effects of immersion
+osmotic pressure
+hydraulic system
+tidal harmonic constant
+commutator segment
+sub-sample
+cap rock
+mobile fuel cell power system
+mass specific power
+nuclear detonation munition
+weak current control
+nuclear stockpile
+nuclear war
+voltage drop
+nuclear quadrupole resonance
+motor overheat warning device
+organic Rankin cycle
+hybrid electric vehicle without selective switch
+standard solar cell
+raw fuel
+radiocrystallography
+brake setting
+tidal energy
+maximum wind speed
+nuclear reactor materials
+union
+pellet mill with vertical and round flat type die
+AMI condition
+maximum operating pressure
+flexural rigidity
+nuclear reaction formula
+secondary current
+neutron proton ratio
+nuclear grade
+catastrophic failure
+acoustic reference wind speed
+atmospheric absorption
+neutron moderator
+redundance
+working standard
+reverse generation
+decay product
+fertile nuclide
+bridging
+high voltage maintenance switch
+primary conversion
+design limits
+wave reflection
+extrapolated power curve
+nuclear intermediate resonance
+mean Earth-Sun distance
+hemicellulose
+conduction noise
+nuclear fuel cycle cost
+fail-safe
+strong current control
+electric wire and cable
+nuclear transformed chemistry
+solar preheat system
+radial pin coupling
+electrical wound-field synchronous electrical machine
+time constant
+ribbed electrode
+cluster radioactivity
+switch
+flocculate
+nuclear know how
+U-bolt
+nuclear collision
+radiant flux
+primary standard pyrheliometer
+latent fault dormant failure
+nuclear cascade
+secondary standard pyrheliometer
+balance of electric power system
+nuclear material accounting
+test on bed
+sampling
+reactance
+ocean thermal energy
+level width
+total chlorine
+chemical yield
+fossil fuel
+low-head
+fissile material
+potential equalization
+separation energy
+tailing edge
+nuclear projectile
+partial oxidation reforming(POX)
+primary voltage
+accuracy
+nrts
+internal transmittance
+Y-Y angular correlation
+display lamp
+sunshine recorder
+micro fuel cell power system
+induction generator
+non linear heating
+chemical recombination
+reactant recirculation
+nominal atomic bomb
+nuclear reactor physics
+current ripple
+co-flow
+damping coefficient
+net shortwave irradiance
+primary wave energy conversion device
+charging current
+natural aerosol
+anglar particle flux density
+neutron diffusion
+inverter
+the Ⅰ-Ⅴ characteristic curve of a solar cell
+aperture
+load
+normal shutdown (for wind turbine)
+positron
+stationary fuel cell power system
+data set(for power performance measurement)
+in situ measurement
+chain fission yield
+contactor
+Venetian blind collector
+high-temperature convective geothermal system
+double clamp
+nuclear isotope battery
+mean sun
+indirect contact
+radiation degradation
+neutron radiation damage
+fill factor ,curve factor
+nucleon transfer reaction
+noninjurious
+fracturing stimulation
+harmonics
+efficiency of WTGS
+serial resistance
+safeguarding
+vertical circle
+thermalization
+grading ring
+shortwave radiation
+semiconductor
+beta-plus decay
+evacuated collector
+Oldham coupling
+acceleration amplitude
+squaring
+biofuels
+electric coupling
+Å ngstrom pyrheliometer
+ratchet spanner
+nuclear explosion seismology
+portable fuel cell power system
+tilt angle
+auxiliary motor
+变换器 DC/DC convertor(converter)
+mineral assemblage geothermometers
+energy efficiency
+excitation
+stack terminal
+cylindrical gear
+nuclear trial
+system
+seal
+standby time
+area
+power
+tip-speed ratio
+output shaft
+ventilation system
+celestial axis
+isorad
+nuclear magnetic moment
+nominal load
+diffusion length
+normal condition
+anode
+radioautography
+nuclear power technology
+addendum modification on gears
+reference distance
+volatile matter
+nucleic acid
+biobased product; bioproduct
+neutron transfer reaction
+non degenerate gas
+twist of blade
+photoelectric effect
+reflected solar radiation
+norm
+open system
+occupational exposure
+solar-plus-suppl ementary system
+high energy traction battery
+fuel cell
+peak charge power
+nu factor
+neutrons per second
+sampling canister
+idling(for wind turbine)
+ocean climate
+tidal power generation
+horizon
+solar-pointing device
+open circuit
+reservoir model
+circulating system
+solar （ irradiance ） simulator
+geothermal energy
+petrothermal resources
+standby state
+incoherent scattering
+neutron ray
+deformation temperature
+neutron kinetics
+depressurize
+nuclear engineering test reactor
+integrating nephelometer
+integrated total integrated value
+nuclear shape
+mean sea level
+traction battery enclosure
+catalyst layer
+nuclear well
+geothermal sand removal
+excited state
+neutron radioactivation analysis
+endurance test
+active cooling
+non equilibrium diffusion equation
+sunshine
+intermediate depth water
+nuclear shell model
+emergency braking system
+transit
+electrical endurance
+transesterification
+enrichment factor
+net pyrgeometer
+addendum modification on gear
+on-load indicator
+nuclear angular momentum
+biochemical conversion
+nuclear reactor kinetics
+nuclear weapon maneuver
+disintegration energy
+total efficiency of hydroelectric power station
+neutron interaction probability
+thermal( neutron) inelastic scattering
+setting pressure
+flowability
+planetary gear train
+pressure wave energy conversion device
+nuclear attraction
+nuclear blast
+clearance
+test mass of an electric vehicle 、
+impact parameter
+end-of-life；EOL
+nuclear materials security
+process and control test
+nuclear level density
+gear motor
+insulation resistance
+loss
+oceanographic radiobiology
+low voltage
+oil-immersed type transformer
+wake-field accelerator
+telecommunication cable
+reference height
+compensated pyrheliometer
+annual variation
+touring cap
+shear exponent
+baud
+software platform
+adjusting plate
+tops & tails
+filled system
+atomic mass
+cooling water
+atmospheric radiation
+reference radiometer
+nuclear structure model
+nuclear isospin
+polarization curve
+Ovshinsky effect
+ocean energy
+nuclear magnetic resonance spectrum
+wind turbine terminals
+cell block
+nuclear repulsion
+fission fragment
+heat exchanger
+maximum wave height
+annual average
+power plant of energy from salinity gradients in the wizened salt
+spur gear
+fermentation
+speed to full power
+fission neutron number
+drain
+shock current
+occupational tolerance
+fission unit
+wind
+nuclear orientation
+resonance scattering
+isotope dilution analysis
+neutron tight
+global solar irradiance
+fixed/mobile bearing
+nuclear stopping power
+WRR
+decay heat
+ocean energy converters
+Stabilized Energy Conversion Efficiency
+bomb calorific value
+four probe method
+emission characteristics
+indicator
+neutron multiplying system
+planet gear
+mechanical endurance
+lower culmination
+output characteristic
+of WTGS
+liquefaction
+torque coefficient
+gamma radiation
+ocean current
+alpha decay
+tertiary biomass
+wind speed
+nuclear test plant
+nuclear transmutation
+nitrogen
+nuclear binding energy distribution
+impedance voltage
+combined sample
+nuclear safety
+particle confinement time
+radiation properties and processes
+microtron
+vertical axis wind turbine
+damper
+output characteristics
+surge suppressor
+rauxiliary heate
+time zone
+scattering kernel
+engine
+wheel gear
+commutation
+nuclear scattering of neutron
+agricultural biomass
+observation room
+Fourier transform infrared spectroscopy system; FTIR
+universal coupling
+equivalent length
+nuclear structure
+wave crest
+protected against dropping water
+quality factor
+current
+neutrons per fission
+wind power station wind farm
+data base
+nuclear density
+BOS or Balance of System-photovoltaic
+field-of-view angle
+damping ratio
+nuclear cross section
+open circuit voltage
+electrolyte matrix
+systematic sampling
+nuclear reaction yield
+battery
+lineal energy
+high voltage multiplier ;Cockcroft- Walton accelerator
+worm
+nuclear battery
+maintenance
+active area
+Ovonic
+nuclear particle spectrum
+nuclear rocket reactor
+wind turbine
+enthalpy of geothermal fluid
+enhanced geothermal system
+terminal cover
+neutron time of flight analyzer
+semi-osmotic membrane
+power factor
+solidity losses
+horizontal circle
+selective surface
+antiparticle
+motor
+nuclear civil engineering
+nuclear isobar
+albedometer
+total atomic stopping power
+telephone
+proton exchange membrane (PEM) fuel cell ; solid polymer (SP) fuel cell; polymer electrolyte (PE) fuel cell
+nuclear chain reaction
+pinch effect
+isotope effect
+gas/water separator
+ozone
+helical gear; single-helical gear
+wave
+ring earth electrode
+rigid coupling
+neutron period
+Spray
+pin
+brake mechanism
+nuclear electric quadrupole moment
+sun-path diagram
+insulating glove
+differential energy fluence rate
+nuclear critical accident
+hot zone
+constant power operation
+Secondary aerosol
+photo-effect
+heat pump
+nuclear loss
+process manual
+network impedance phase angle
+load characteristic
+constant voltage operation
+hot atom
+over-current
+castellated coupling
+sugar platform
+starting torque
+storage condition
+economic assessment of ocean energy resources
+recycle
+nuclear propellant
+nuclear counting
+tooth space
+wind speed distribution
+total nitrogen
+neutron number
+reflectivity
+exciter
+orientation angle
+neutron slab counter
+flow configuration of stack or module
+sulfate aerosol
+nuclear magneton
+pair production
+gear with addendum modification
+self-electrodeposition
+pitch angle
+brake lining
+shunt resistance
+main circuit
+load
+nucleon number
+extraneous ash
+density
+radiation polymer chemistry
+celestial pole
+profile modification , profile correction
+protection degree
+total half-life
+ball-hook
+tooth flank
+beta-minus decay
+normal shutdown
+aerosol absorption coefficient
+center gear
+charging connector
+input frequency
+nuclear power station on seabed
+distribution maps of tidal energy
+nuclear radiation
+on-load voltage
+traveling wave linac
+safety concept
+ns
+Α absorptance, absorption factor
+cation geothermometers
+electric shock
+aerosol mass concentration
+nuclear emission
+no load voltage
+gas leakage
+short circuit
+cutting feed rate
+speed increasing gear train
+flux density of tidal current energy
+mean level spacing
+amplitude
+Air Mass (AM)
+optional test conditions
+slagging inhibitor
+reduction gas observation system;RGA
+emergency shutdown(for wind turbine)
+phase transition of nuclear matter
+nuclear explosive
+equalizing charge
+nuclear quadrupole moment
+orbital electron capture
+pressure
+hydraulic filter
+external condition(for WTGS)
+wave energy utilization
+well testing
+power collection system
+sun
+nuclear attack
+pressing aid
+calibration value
+brake disc
+nuclear delay
+spectral irradiance distribution
+neutron lethargy
+energy fluence
+fuel cell / gas turbine system
+thickness of airfoil
+over-current protection
+sun shading disk ； shade disk
+Voltage
+electric regeneration indicator
+bolometer
+flood generation
+remote-storage system
+solar cell module surface temperature
+hub height
+generator
+horizontal coordinate system
+solar hour angle
+apparent solar time
+albedo of the Earth
+single clamp
+voltage alteration range
+pressure
+blocking
+nuclear spectrometer
+total linear stopping power
+Solar Module or Solar Panel
+propulsion system
+neutronics
+irradiance
+test flume of ocean energy
+wind turbine generator system (WTGS)
+main switch
+off gas ； tail gas
+solar spectrum
+secondary conversion
+power collection system
+producer gas
+external conditions
+nuclear energy
+ocean energy generation
+wave excitation force
+enclosure
+geothermal drying
+annihilation
+solenoid
+recoverable resources
+non dispersive x ray fluorescence
+programmable control
+utility(electric)
+atomic mass constant
+secondary biomass
+ultraviolet radiation
+control device
+neutron radioactivity
+minimum voltage
+nominal activity
+obsolete processing facility
+shutdown for wind turbine
+nuclear disintegration
+nuclear level
+neutron scattering
+polymer electrolyte fuel cell；PEFC
+transmission
+nuclear strike capability
+venting
+life time
+porosity
+data set
+nuclear purity
+solar altitude
+reactive power
+shutdown time
+air-termination system
+tide
+operational state
+speed increasing gear pair
+polycrystalline silicon solar cell
+fuel cell power system
+peak torque
+bulk density
+nucleon scattering
+wave energy generation technology
+resonance width
+voltage to earth
+standard source
+driven gear
+nuclear
+nuclear vibrational model
+high power application
+resonance parameter
+rotating union
+influence by the wind shear
+hardware platform
+nuclear magnetic relaxation
+input
+internal reforming
+fog
+fuelling coupler
+over circuit
+wave energy attenuator
+complex terrain
+nuclear mass formula of weizsacker
+photo-electric effect
+telescope
+Array-photovoltaic
+telemonitoring
+shallow geothermal capacity
+non isotopic
+bulk volume
+address
+isotopic tracer
+Radiation thermometer
+accuracy of measurement
+geo-temperature measurement
+nuclear fuel material
+yawing
+lift coefficient
+resonance capture of neutron
+power law for wind shear
+electric energy transducer
+head loss
+complete fusion reaction
+equatorial coordinate system
+Peak Power
+breakdown
+stack test
+wind speed
+renewable energy
+train of gears
+rotor stability
+impulse load tests
+rated apparent power
+neutron source range
+nuclear transformation product
+short-circuit operation
+oxidant consumption
+nuclear accident dosimetry
+salinity gradient energy utilization
+nucleon
+modulator-demodulator
+insulating boots
+primary standard solar cell
+contact
+nuclear underground burst
+harmonic analysis of tides
+terrestrial solar cell array
+service life
+drive motor
+tidal energy generation technology
+perating current
+fission neutron
+analog signal
+oven dry material
+tracer
+ocean thermal energy conversion power system
+activation analysis
+specific activity
+inherent moisture
+ring gear
+separated-sector accelerator
+convertor (converter)
+neutron inelastic scattering
+circular accelerator
+test-bed
+internal adsorption
+routine test
+non nuclear material
+background noise
+permanent-magnet synchronous electrical machine 转子采用永磁材料励磁的同步电机，
+nuclear environment
+feathering
+air humidity
+normal
+nuclear power
+measurement parameters
+nuclear hazard
+atomic nucleus
+command
+neutron velocity distribution
+complex terrain
+maximum speed(1 km)
+solar radiation
+radio frequency single cavity accelerator
+apparent solar day
+fault earthing
+ocean energy converters array
+nuclear electronics
+pellet mill with vertical and ring type die
+extreme
+nuclear anomaly diagnosis
+spectral mismatch
+daughter nuclide
+oxidant utilization
+mean solar time
+parking
+nuclear energy level
+accelerating
+neutron producing target
+net irradiance
+oxidant processing system
+inner bremsstrahlung
+Systems
+transient equilibrium
+pyranometer
+laser accelerator
+counted measured ; metered measured ; metered reading
+non destructive assay
+irradiation
+noise
+hybrid power train
+ultracold neutron
+high performance liquid chromatography
+conductor holder
+vibration level
+photo-voltaic concentrator array field
+response time
+regulating mechanism
+optimized production of geothermal energy
+tip-speed ratio
+hydrogen embrittlement
+power plant
+battery auxiliaries
+normal shutdown for wind turbine
+threshold energy
+dielectric test
+nuclear oceanography
+quantum
+nitial average temperature of the rock-soil
+high voltage bus
+wind break
+nuclear cluster motion
+fast neutron
+separator
+lighting protection system(LPS)
+tidal mill
+nuclear spallation
+electricity
+nuclear resonance scattering
+DC brushless electrical machine
+aerosol extinction coefficient
+degree of curvature
+nuclear fluid
+testing prototype of ocean energy
+inertial sub-range
+hardware
+nuclear track registration
+PWM control
+fuel cell vehicle
+non symmetrical
+energy consumption rate
+mixing ratio
+gear pair with parallel axes
+battery electric vehicle ； BEV
+availability
+celestial north pole
+regulating mechanism of turning wind rotor out of the wind sideward
+freezing rain
+solar constant
+flap
+self-shielding factor
+electrolyte migration
+average （mean） voltage
+holdback carrier
+fuel cell stack
+rated load
+exposed conductive part
+nuclear waste
+mean life
+flashover
+nuclear base
+towing plate
+availability
+neutron separation energy
+digital control
+perihelion
+non thermal radiation
+guy clip
+module
+emissivity ； emittance
+nuclear fission
+nuclear stability
+fuel specification
+nentron radiography
+double differential cross section
+nuclear transition
+reproduction
+nuclear installation
+parallel hybrid electric vehicle
+overall energy efficiency
+nicolayite
+solenoid valve
+maintenance
+lead-acid battery
+torque coefficient
+stacking
+cut-in speed
+fuel cell electric vehicle；FCEV
+longwave radiation
+directivity(for WTGS)
+diurnal variations
+fumarole
+density of ocean current energy
+neutron spectrometry
+integrated starter and generator； ISG
+limit state
+alarm
+Stock diameter, D st
+power response time
+significant wave height
+tower
+Atmospheric attenuat
+logarithmic wind shear law
+layered reservoir
+assessment of ocean energy technology
+wave energy
+straw
+ideal atmosphere
+nuclear production
+motor over current warning device
+synchronous speed
+power plant of energy from salinity gradients
+fission width
+filter
+surface manifestation
+hydraulic motor
+complete electric vehicle kerb mass
+second class pyrradiometer
+apparent sound power level
+current density
+drag coefficient
+electrode
+free stand tower
+magic number
+neutron absorption
+reformed hydrogen
+tidal range energy
+cyclotronsuper-conducting cyclotron
+semiconductor rectifier –SR
+earth ; ground
+fissionable material
+compression end plate
+tidal barrage
+nuclear material accountancy
+sky temperature
+tubular cell
+nominal nuclear weapon
+tracking collector
+nuclide
+nuclear reactor coolant
+zenith angle
+input shaft
+terminal
+dynamic pressure
+nondestructive analysis
+polymer radiation chemistry ;radiation chemistry of macromolecules
+total cycle propulsion energy
+nuclear propelled aircraft
+geophysical exploration for geothermal resources
+neutron level
+zero crossing period
+GAW regional station
+regulating characteristics
+neutron thermopile
+on-board hydrogen supply system
+combined hybrid electric vehicle
+to discharge
+nuclear power plant training simulator
+nuclear track emulsion
+neutron transmission cross section
+nuclear magnetic resonance spectroscopy
+current temperature coefficient of a solar cell
+fuse
+local control
+non radiative
+nuclear powered plane
+dew
+breakaway starting current if an a.c.
+thermal conductivity of rock
+degradation rate
+Module-photovoltaic
+sub-lot
+heat flow
+thermal structure of the lithosphere
+optical attenuation method
+artificial reservoir flow impedance
+fire
+hydrolysis
+ambient aerosol
+equivalent volume diameter
+power performance
+platinum loading
+relative humidity
+exponential decay
+ntu
+nozzle
+agglomerate
+nucleus screening
+nuclear cosmochronology
+operating voltage
+non ionizing radiation
+power cable
+set point valve
+drive motor system efficiency
+spacer
+earth
+energy efficiency in ocean current
+motor
+antimatter
+nuclear magnetic resonance induction method
+photo-electric emission
+energy flux density
+signal circuit
+duty ratio
+full radiator ； full emitter
+nuclear precession magnetometer
+instantaneous value
+cut-in wind speed
+nuclear superpower
+nucleon gas
+inner conversion coefficient
+scattering effect
+principle prototype of ocean energy
+mechanical durability
+resistance of an earthed conductor
+obstacles
+particle flux density
+cross flow
+generator
+oscillation
+abundance ratio
+branching fraction
+blade
+nuclear reactor engineering
+total radiation
+collision diffusion
+rated torque coefficient
+decay scheme
+neutron sensitive coating
+power
+reforming
+operation management
+optimum load
+interaction
+neutron multiplication factor
+reflectance
+maintenance test
+spectral cross section
+emptying
+film
+solar-powered refrigerator
+external reforming
+filter
+lens focusing
+neutron radiography
+bipolar plate
+non uniform
+ring earth external
+greenhouse gases;GHG
+tidal current energy utilization
+radiography
+maximum working voltage
+aspect ratio
+molecule hydrogen
+non off-vehicle-chargeable hybrid electric vehicle
+nuclear fusion test plant
+nuclear dud
+binding energy
+gross power
+nuclear systems reliability engineering
+filling(level)
+nuclear energy level density
+threshold reaction
+tidal current ellipse
+locking device
+coproduct
+neutron poison
+n hoar rates capacity
+neutron scattering angular analyzer
+isolation
+non breeding material
+nuclear alignment
+nuclear photon source
+AM1.5 condition
+spectral pyranometer
+ignition temperature
+fluence rate (of particles) ; particle fluence rate
+binary fission
+neutron slowing down
+beam loading effect
+foundation earth electrode
+safety switch
+beta decay
+probe
+weighted sound pressure level
+nuclear industry
+occasional
+short – circuit current density
+wind energy density
+design situation
+aluminum alloy cylinder
+instrumental neutron activation analysis, INAA
+single planetary gear train
+visible radiation
+nuclear neutron
+maximum–power current
+fluid ash fusion temperature
+yawing driven
+solid polymer fuel cell；SPFC
+albedo
+irradiance
+scheduled shutdown
+vibration isolator
+separetor
+current collector
+nuclear recoil
+layer ; level ; class
+non return valve
+half-life
+initial deformation ash fusion temperature
+braking system
+cyclic accelerator
+net longwave irradiance
+initial energy
+angle of attack of blade
+link
+ion source
+Orientation
+total sulfur
+osmotic pressure salinity gradient power conversion
+Converter
+non diathermic
+secondary wave energy conversion device
+surge suppressor
+neutron proton scattering
+non relativistic particle
+external gear
+wind turbine
+particle density
+direct use of geothermal energy
+waste water
+net calorific value at constant volume
+nuclear particle
+wind site
+nuclear spectrum
+nuclear steelmaking
+nuclear crater
+particle size
+single crystalline silicon solar cell
+parameters of the rock-soil thermal properties
+coulombic efficiency
+asynchronous machine
+moisture content;MC
+propulsion energy
+sunshine duration
+annual maximum
+speed increasing ratio
+opening angle
+condensation nuclear, CN
+softening ash fusion temperature
+maximum operating temperature；MOT
+switched reluctance electrical machine
+nuclear powered icebreaker
+rated capacity
+nuclear size
+nuclear machinery
+pair
+ventilation device
+performance
+aerosol surface concnentration
+spontaneous fission
+over current protection
+universal time
+insulating core transformer accelerator
+photon
+impedance
+battery system
+charge controller
+belted reservoir
+operating rotational speed range
+nuclear raw material
+collector types
+pump
+torque coefficient
+photo-electron
+interlocker
+water treatment system
+nuclear pollution
+svation angle
+nuclear isotopic spin
+charger
+Disordered
+characteristic
+directivity
+bus bar
+electric power train
+one-way operation
+duration of possible sunshine
+electrical machine
+Auger electron
+primary current
+activity concentration
+isotopic exchange
+beam collective effect
+safe life
+tandem accelerator
+nuclear test facility
+open –circuit voltage
+direct solar radiation ； beam solar radiation
+depth of discharge；DOD
+by-products from wood processing industry
+roller assembly
+neutron induced process
+wave profile
+reservoir
+neutron shield
+asynchronous generator
+photoneutron
+nuclear science
+epithermal neutron
+auxiliary heat source
+electrical device
+new core component transfer machine
+fuel cell electric vehicle;FCEV 以燃料电池系统作为动力源或主动力源的汽车。
+right ascension circle
+nuclide mass
+rated operational voltage
+absorption coefficient
+measured power
+ntp
+self-absorption
+operation
+nominal ] output
+meshing interference
+nuclear powered guided missile cruiser
+nuclear test
+attenuation of solar radiation
+linear energy transfer (LET)
+nuclear theory
+Parallel Connection
+shoes
+nucleor
+geometric chord of airfoil
+transit time factor (TTF)
+resonance
+battery module
+gas chromatography -electron capture detector observation system ;GC-ECD
+boiling spring
+tooth
+nuclear fuel assembly
+nuclear superiority
+altitude
+endurance test
+thermal balance evaluation
+non aqueous fluid fuel reactor
+nuclear fusion bomb
+allowable working pressure
+protocol
+self-discharge
+nuclear energetics
+nuclear steam system
+photo-conductive effect
+half-value thickness
+ratio of over load
+atomic mass unit ,u
+Liquid,heating collector,liquid collector
+voltage temperature coefficient of a soler cell
+start-up energy
+heaving and pitching body wave energy conversion device
+oscillator
+primary aerosol
+radiation
+torsional rigidity
+root circle
+cellulose
+safety system
+characteristic
+atmospheric remote sensing
+manipulator
+collector loop
+energy coversion cycle system
+pyrolysis
+rated power
+nuclear shell model
+nuclear species
+dark characteristic curve
+linear extinction coefficient
+peak discharge power
+pin
+neutron optics
+neutron powder crystal diffraction pattern
+ρ reflectance,reflection factor
+emergency stop push-button
+nuclear analytical chemistry
+nuclear materials information system
+transfer standard
+activation rotational speed
+non radioactive element
+water draw-off rate
+point of common coupling
+mass number
+electrolyte
+parasitic load
+nuclear blackmail
+clinker ing property
+heat recovery efficiency
+relief valve
+neutron reflector
+nucleonics
+biomass briquette
+regulating mechanism by adjusting the pitch of blade
+mean noon
+to charge
+nuclear material control system
+zenith
+softening temperature
+characteristic
+Components
+gear
+normal glow discharge
+nuclear constitution
+normal level
+Compton effect
+double insulation
+hydrothermal explosion
+normal temperature and pressure
+passive cooling
+measurement period
+discharge water
+nickel-metal hydride battery
+heater
+network connection point
+nuclear reactor theory
+total irradiance
+compound nucleus
+driving gear
+nuclear spectroscopy
+flicker step factor
+spot corrosion
+over-voltage
+common earthing system
+neutron producer
+maximum rotational speed
+primary biomass
+nuclear thermodynamics
+branching ratio
+volume specific power
+peak power
+mean range
+Linke turbidity factor
+neutron velocity
+drain
+ground-source heat pump system
+neutron transport mean free path
+sunset
+nozzle separation
+secular equilibrium
+PLC
+down-conductor
+reflection
+activation product
+Cell-photovoltaic
+observed threshold
+non self quenching
+electrical chassis
+reactive current
+high voltage fuse
+helical gear single-helical gear
+terminal
+nonliquefaction
+site electrical facilities
+guyed tower
+nuclear magnetic log
+constant temperature zone
+microscope
+brake pad
+elastic coupling
+nuclear capture
+classical diffusion
+standard gas preparation system
+attenuation
+circuit breaker
+design situation
+Y decay
+mean geometric chord of airfoil
+nuclear geometrical cross section
+fission energy
+free stream wind speed
+isochronous cyclotron
+nuclear reactor building
+diffuse irradiation
+wind energy density
+extreme maximum
+nuclear activation analysis
+neutron trap
+net pyranometer
+cross section
+nuclear material control
+moisture analysis sample
+myon
+absorptance
+numerical control
+tidal range
+net pyrradiometer
+nominal voltage
+baryon
+auxiliary battery
+neutron inventory
+global atmosphere watch;GAW
+switching
+ash analysis
+biodiesel
+prismatic cell
+pitch point
+non destructive inspection
+photoelectric device
+date terminal equipment
+touch screen
+touch voltage
+frequency
+active yawing
+power take-off device
+nuclear rotational state
+standardized wind speed
+rated electrical output
+starting torque coefficient
+short-term cut-out wind speed
+measurement seat
+molten carbonate fuel cell
+neutron log
+direct radiation
+open power plant energy from salinity gradients
+salinity cell energy conversion
+volumetric energy density
+isotone
+rated power
+excitation response
+heat exchanger power
+direct generation
+start up
+nuclear reactor safety evaluation
+solar simulator
+rain
+neutron powder diffraction
+rated load
+radioisotope
+system software
+power of tidal current
+extreme wind speed
+sample
+neutron or particle current density
+voltage adjustable range
+parasitic energy
+coefficient of torsional
+code
+open-circuit operation
+cage
+average irradiance
+temperature sensor
+reference roughness length
+nuclear engine
+electric vehicle charge
+end plate
+chemical corrosion
+nuclear depth charge
+standard gas
+proximate analysis
+nuclear materials inventory system
+photovoltaic concentrator module
+Charge Monitor/Meter
+fuel ceil auxiliary system
+constant chord blade
+inductor
+nuclear disarmament
+nuclear plate
+differential cross section
+oscillator
+radioactive element
+diffuse solar radiation ； scattering solar radiation
+neutron shielding material
+nuclear allocation
+rigidity gear
+G-value
+Weibull distribution
+standard test conditions
+closed cycle system
+standard air pressure
+nuclear reaction
+ocean based nuclear plant
+current control method
+resistor
+wind profile wind shear law
+Photovoltaic;PV
+glycol
+neutrophil granule
+fuel cell system
+alternating current
+nuclear recoil effect
+null instrument
+nuclear space power plant
+frequency converter
+splicing sleeve
+non polarizing electrode
+shallow water
+counted measured metered measured metered reading
+ocean dual purpose nuclear power station
+concentration
+nuclear strike warning
+normalization
+no-load
+isotope geothermometers
+low flow sampling
+municipal solid waste;Msw
+full load operation
+mechanism by adjusting the pitch of blade
+high flow sampling
+substoichiometric separation
+nuclear fusion energy source
+vertical axis wind turbine
+rime
+semiconductor
+nuclear chain reaction
+dynamic response time
+load power
+neutron sensitive chamber
+nuclear temperature
+traction batteryipropulsion battery
+gamma quantum
+encode
+neutron irradiation monitor
+number of theoretical plates
+membrane electrode assembly (MEA) area
+locked-rotor torque
+rating
+niton
+safer impedance
+non linearity
+operating point
+nuclear mass
+commutator
+resistance of an earthed conductor
+nuclear reactor metallurgy
+environment condition
+durability
+memory effect
+thermal propagation
+counter flow
+methane
+nuclear test detection
+constant current discharge
+neutron removal cross section
+radiation curing
+radioactive purity
+fuel cell engine rated power
+biomass pellet
+pouch cell
+allobar
+repeatability
+drainback system
+non quantized system
+nuclear technology
+neutron temperature
+over discharge
+lignin
+converter
+distributing apparatus
+panel
+linear range
+nuclear gyromagnetic ratio
+internal absorptance
+hydraulic braking system
+nuclear photoeffect
+mixing
+non inductive
+nuclear defence
+solenoid
+nuclear fuel regeneration
+Coulomb barrier
+interaction of neutron with matter
+direct current machine
+cable cutter
+non polar linkage
+nuclear excitation
+hemispherical solar radiation
+series hybrid electric vehicle
+total fuel propulsion energy
+nuclear gamma resonance
+to isolate
+pellet mil with horizontal and ring type die
+bioreactor
+Kilowatt
+short time output characteristic
+reactance voltage
+precipitation separation
+wave energy terminator
+protonexchange membrane; PEM
+radon daughter a potential energy
+neutron magnetic moment
+nuclear fuel processing
+valve
+observatory
+noise analysis
+nuclear material measurement
+nuclear isomer transition
+mass decrement
+bonding conductor
+nuclear power engineering
+radiation measurement
+inner conversion
+spontaneous nuclear reaction
+prompt radiation
+nuclear meteorology
+total oxygen
+scaling
+neutron level spacing
+cold neutron
+planet carrier
+nuclear evaporation
+Blocking Diode
+power train
+safety isolating transformer
+effective area
+nonselective surface
+nuclear fuel cycle facility
+nuclear polarization
+D.C/A..C up(down) converter
+electric potential by concentration
+non fissile material
+counter weight
+spectral response
+carbon monoxide
+impactor
+active sampling
+additives
+fission gas
+no load characteristic
+maximum power
+photo-voltaic concentrator array
+reinforced insulation
+atomic absorption spectrometry，AAS
+power electronic device
+nuclear pair emission
+non proliferation of nuclear weapons
+hot dry rock
+equation of time
+insulation failure warning device
+non volatile fission product
+flow temperature
+operating condition
+nuclear selection rules
+Crystalline
+controller efficiency
+occupied level
+warm start
+low voltage apparatus
+drift in standard gas
+nuclear moment
+nuclear power source
+level density
+nuclear underwater burst
+culmination
+nuclear vibration
+photo–electric conversion efficiency
+biomass conversion
+occupied area
+nucleate boiling
+modern
+nuclide generator
+active power
+thermopile
+idling (for wind turbine)
+gear drive mechanism
+nuclear power generation
+current---voltage characteristic
+geochemical exploration for geothermal resources
+limit switch
+altitude
+dry ash-free basis
+spectral irradiance E λ
+electrocurtain accelerator
+yield
+constant voltage discharge
+solar azimuth
+limit speed switch
+nuclon
+auxiliary system
+transmission accuracy
+live part
+thermal fission
+nuclear inflammability
+fuel cell system for propulsion and auxiliary power units
+integrated coupling
+Y deexcitation
+sky radiation
+cathode
+nuclear physicist
+range extended electric vehicle；REEV
+nuclear power station
+eta factor
+nuclear reactor chemistry
+nuclear excavation
+nuclear electronic effect program
+absorption of the photons
+losses
+autoradiography
+directional wave spectrum
+power of wave energy
+logging residues; logging slash
+wind power density
+short-circuit ratio
+elemental analysis; ultimate analysis
+moisture holding capacity
+resonance nentron
+dynamic transient response of power output
+DC power supply
+nuclear spin
+insulation ratio
+prompt nuclear (reaction) analysis
+elementary charge
+corrosion
+neutrino
+Series Connection
+radioactivity
+carbonization
+non fission neutron absorption
+solenoid
+pulse charge
+setting angle of blade
+thrust coefficient
+nuclear arsenal
+nuclear boiler
+energy spectrumhyperfine interaction
+thermonuclear
+nuclear burst
+repeat part
+air exhaust
+aerosol optical depth
+acoustic reference wind speed
+neutron
+fluid
+atmosphere
+cycle life
+D.C/D.C up(down) converter
+noise level
+infrared radiation
+nobelium
+n hour rate
+air collector ， air heating collector
+neutron shutter
+Auger effect
+external lighting protection system
+free oscillation
+multiple-stage planetary gear train
+filter
+decay curve
+maximum power of wind turbine
+switchgear
+proximate analysis
+dynamic monitoring
+damping
+reverse pumping
+neutron star
+telecommunication cable ; communication cable
+environment
+fusion chemistry
+cut-out speed
+nuclear fusion
+shade ring
+tidal current generation technology
+current temperature coefficient
+control cabinet
+direct contact
+obliquity
+safety marking
+one-to-one control mode
+lift cycle system
+catalyst coated membrane; CCM
+operating temperature of solar cell
+orientation mechanism
+nuclear metallurgy
+salinity gradient energy conversion
+gas cleanup
+nuclear power operator
+security coupling
+non radiation transition
+capture
+K-radiation
+electromagnetic compatibility; EMC
+Balance of Systems
+flicker
+fuel cell engine efficiency
+ocean energy test site
+series circuit
+emergency shutdown for wind turbine
+power plant of energy from salinity gradients of mixer in the outside
+closed circuit
+electrical contact
+maximum power point
+electric charge
+ocean climate
+front end processor
+nuclear explosion in outer space
+radio frequency quadrupole linac (RFQ)
+nose cone
+discharge
+nominal top size
+star connection
+shackle
+neutron spin flipper
+prompt fission gamma radiation
+wake losses
+electric power system
+output characteristic of WTGS
+electrophoresis
+three phase boundary
+meson
+balance of plant; BOP
+neutron wavelength
+cold start
+angle of blade
+anthropogenic aerosol
+rotor swept area
+non destructive assay instrumentation
+dam-atoll
+max refueling pressure
+field radiometer
+neutron spectrum
+noise
+nucleus
+constant carrent charge
+catalyst
+nucleosynthesis
+earth conductor
+manifold
+acceptance
+resonance level
+fungible fuels
+non local field theory
+nuclear attack submarine
+extraterrestrial solar radiation
+electrostatic accelerator; Van de Graaff accelerator
+data terminal equipment
+rigid coupling
+nuclear optical model
+Electronic Mobility diameter
+fertile material
+neutron yield
+electron
+fast fission
+emittance
+start response time to idle state
+vibration
+synchrotron radiation
+earth electrode
+specifies breakaway torque
+type of tide
+under-voltage
+average noise level
+differential particle fluence rate
+energy spread
+electrochemical surface area
+fuel cell gas turbine hybrid system
+fuel cell cogeneration system
+detection limit
+annual energy production
+gas purge
+maximum turning speed of rotor
+RayLeigh distribution
+precision
+rated current
+safety impedance
+nuclear periodicity
+circle
+nuclear weapon degradation
+tank capacity ， storage device capacity
+nuclear spin effect
+nuclear desalination
+biomass molding equipment
+biomass energy
+deep water
+delayed neutron
+activity
+active materials
+electromagnetic radiation
+field data
+earthing reference points
+halons
+cell area
+neutrons yield per fission
+vibration tests
+brake
+hemispherical solar irradiance
+magnetic moment of nucleus
+sound pressure level
+single solar cell
+starting signal
+nuclear substance
+non fission capture
+nuclear decay
+cooling
+X radiation
+inductively coupled plasma mass spectrometry, ICP-MS
+neutronography
+direct methanol fuel cell
+star connection
+melting
+ultimate limit state
+nuclear diameter
+nuclear propulsion
+Greenwich mean time
+stand by indicator
+transient rotor
+rectifier
+neutron instrumentation system
+non periodic
+supplementary insulation
+emergency shutdown
+nuclear reactor
+neutron source
+gas stable isotopic ratio mass spectrometer system;IRMS
+decode
+solid oxide fuel cell；SOFC
+method of bins
+earthed circuit
+fission yield
+celestial sphere
+waste heat
+adjustable pliers
+gas diffusion electrode
+nuclear weapon effect
+neutron thermalization
+spectral irradiance
+pretreatment
+axial pitch
+sequential order of the phase
+radiation processing
+circumferential backlash
+rated torque
+canister sampling
+controller overheat warning device
+protective relay
+crossover
+service condition
+scattering law
+isomeric separation
+electron-volt
+warning
+tooth depth
+nuclear magnetic resonance (NMR)
+nuclear defence capability
+radiant energy
+nuclear physics
+nuclear clock
+frequency
+audible noise level
+system components and related quantities (other than collectors)
+horizontal axis wind turbine
+energy consumption perton solid biofuel
+insulation level
+theoretical capacity
+information
+quark
+optical air mass
+salt fog
+natural frequency
+DC shunt electrical machine
+transmission error
+battery electronics
+target gas
+electrolytic deposition
+occupational radiation dose
+hub (for wind turbine)
+ultimate analysis
+source density
+adsorption of radioactivity
+proton radioactivity
+neutron rich isotope
+nuclear model
+decay chain
+flank
+distribution maps of tidal current energy
+accelerated outdoor exposure testing
+net electric power output
+nuclear missile
+lighting current
+stimulated fission
+spectrograph
+non linear field theory
+nuclear pollution discharge elimination system
+degree of enrichment
+electrode area
+iparticle fluence
+glaze
+plasma
+swept area
+background vibration level
+solar noon
+electric moment of nucleus
+inductive charge
+air permeability
+rated speed
+nuclear isomerism
+end-o^discharge voltage
+electrochemical separation
+neutron moisture meter
+nuclear dispersion relation
+dry basis
+interconnector
+volatilization separation
+sensitivity
+annual extreme daily mean of temperature
+internal
+aerodynamic diameter
+fixed carbon
+rated energy
+nuclear force
+non-condensable gas
+measured power curve
+Wells turbuine
+collector plate
+nuclear detection
+radiation sonde
+spectral photo irradiance N λ
+solar cell area
+front port resonant efficiency
+ash fusibility
+protection system
+neutron proton mass difference
+fission barrier
+nuclear surface tension
+field weakening control
+nuclear reaction cross section
+nuclear steam supply system
+climate
+isomeric transition
+decay constant
+nuclear sub surface burst
+production design prototype of ocean energy
+Megawatt
+nuclear power cost analysis
+disintegration rate
+neptunium series
+τ transmittance ， transmission factor
+cell case
+maximum–power voltage
+strength
+tidal current rose
+round robin experiment
+capacitance
+nuclear magnetic dipole moment
+regenerative braking
+curve of reservoir capacity
+axial load
+nuclear dual purpose plant
+particle density
+neutral point
+catalyst coated substrate；CCS
+upper culmination
+fuel consumption rate
+electromagnetic emission level
+solar collector ， solar thermal collector
+tracer test
+charge efficiency
+branching decay
+protection lever
+nohlite
+forced—circulation system
+valve
+driving, gear
+tonality
+tidal energy utilization
+silicon solar cell
+continental climate
+laboratory sample
+biological half-life
+nuclear powered direct electricity generation
+binary cycle
+fission spectrum
+steady state
+ion beam analysis
+absorber
+jumper clamp
+thermochemical conversion
+generating time
+power collection syetem
+circumsolar radiation
+tidal wave
+model
+beginning-of-life ； BOL
+screw extrusion molding machine
+ocean energy technology
+electrolyte reservoir
+equatorial mounting
+electrolyte loss
+hydrogen utilization
+arc-control device
+yoke plate
+nuclear powered desalination plant
+intermediate neutron
+set point value
+insulated-gate bipolar transistor------IGBT
+air braking system
+oil seal
+equipotential bonding
+conductor clamp
+nuclear aided engineering project
+nuclear fuel rocket
+nucleation
+radiation noise
+nuclear packing
+aerodynamic characteristics
+nuclear disintegration energy
+basic error
+total moisture
+high voltage transformer accelerator
+end-of-charge voltage
+neutron or gamma transport computer code
+nuclear engine for rocket vehicle application
+Inverter
+neutron radiative capture
+wire guide roll
+output shaft
+nuclear recoil
+voltage temperature coefficient
+湿度 absolute humidity
+off-vehicle-chargeable hybrid electric vehicle
+Roll-to-Roll Process
+neutron radiation effect
+neutron mirror
+declination
+atom
+on-load operation
+electric machine
+leakage current
+system with effectively earthed neutral
+ebb generation
+flash tank
+nitride fuel
+non coherent
+nuclear damage assessment
+nuclear octupole moment
+nuclear synthesis
+wave amplitude
+bulk density
+proton exchange membrane; PEM
+earthing reference point (ERP)
+indoor and outdoor climates
+response time to rated power
+electrical machine controller
+non-isotopic tracer
+specific activity
+instantaneous power
+open circuit voltage；off-load voltage
+neutron-rich nuclide
+turbidity
+neutron population
+conductor
+mechanical braking system
+reflectometer
+non polar adsorption
+minimun power
+blocking (for wind turbine)
+pyrgeometer
+recovered heat
+mass-reduction
+Mossbauer effect
+rated tip-speed ratio
+neutron standard
+gear
+unit of radioelement concentration
+stack
+rigidity
+obscure radiation
+cold state
+daily mean
+synchronous speed
+rotor wake
+pulsating voltage
+pressure angle
+integral diode solar cell
+Salter nodding duck wave energy conversion device
+sunrise
+heavy ion radioactivity
+electrocatalysis
+working flank
+optimum operating current
+pulse line accelerator
+quarts
+extraterrestrial solar irradiance
+nuclear peninsula
+regeneration braking
+neutron nuclear reaction
+snow load
+β-stable line
+nuclear field
+lighting protection zone
+hybrid electric vehicle with selective switch
+voltage ripple
+electrocatalyst
+ion exchange membrane
+condensation nucleus counting
+neutron spectroscopy
+neutron propagation
+hydrothermal alteration
+non-dispersive infrared spectroscopy observation system; NDIR
+wave frequency spectrum
+lepton
+rotor power coefficient
+splined coupling
+charge exchange
+nuclear cooling
+neutron source density
+return information
+biosolids
+idal power project
+acoustic reference wind speed
+nilsson potential
+discharge current
+induction machine
+parameter
+method of bins
+restricted linear collision stopping
+transmission ratio
+nuclear geochemistry
+insulation
+dry-type transformer
+novacekite
+nuclear resonance
+wire break
+shielding ring
+bit
+neutron spectrometer
+aerosol number concentration
+fail safe
+horizontal plane
+precursor
+test site
+nonradiative
+input shaft
+rated condition
+resistance voltage
+secondary standard pyrradiometer
+null valence
+geothermal system
+synchronous coefficient
+sum of tidal current volume
+capacitor for voltage protection
+ photo –generated current(photocurrent)
+perfluorocarbons ;PFCs
+tidal average power
+output
+biomass
+power density of wave energy
+against splashing
+standard uncertainty
+Photovoltaic Cell
+availability factor
+nucleus of uranium atom
+nuclear weapon proliferation
+sand aerosol
+short circuit current
+internal lighting protection system
+geothermal resources exploration
+rotor speed
+neutron spin echo method
+vertical testing exchanger
+capacity recovery
+auxiliary circuit
+shade ring
+nuclear microanalysis
+maximum permitted power
+nusselt number
+gross calorific value at constant volume
+nickel
+low-medium temperature conductive geothermal system
+nuclear fuel cycle economy
+nozzle enrichment process
+periscope
+nuclear geophysics
+ion
+wavelength scan cavity ring down spectroscopy system; WS-CRDS
+gear
+tertiary conversion
+ram compression molding machine
+first class pyrradiometer
+neutron resonance
+charging timer
+nuclear equation
+free moisture； surface moisture
+fuel processing system
+specific charge
+nuclear breeder
+nuclear material
+ionizing radiation
+steam fraction
+wind power station; wind farm
+double-layer sluice
+greenhouse effect
+air mass
+electric drive
+refrigerator
+spectral –sensitivity characteristic
+inspection earthing
+partial decay constant
+fresnel lens
+hook
+salinity gradient energy conversion
+auto-transformer
+new production reactor
+neutron monochromator
+surface temperature
+high pressure hydrogen storage cylinder
+hydrogen fueling receptacle
+brake fluid
+stopping cross section
+high power particle beam accelerator
+angular distance
+rime
+nuclear fuel burn up
+atmospheric turbidity
+pellet mill
+geothermal anomaly
+battery charging energy
+conductive charge
+wave peak period
+electric block
+thorium series
+parked wind turbine
+geothermometry
+pulsating current
+sea current profile
+catalyst life (reformer)
+relay
+nuclear pile
+full charge
+synchronous generator
+cell temperature
+voltage control method
+exergetic efficiency
+stable isotope
+collective model
+radiant exposure
+organic sulfur
+range
+fuel cell power system
+Thin-Film
+water flow
+graphite crucible
+independent fission yield
+electrical rotating machine
+normal state
+nuclear safety criterion
+remote terminal unit
+random vibration
+salt
+neutron hardening
+bonding bar
+hybrid electric vehicle；HEV
+on-board energy source
+ultra-capacitor
+speed control
+controller
+charging controller
+ground heat exchanger
+area
+power coefficient
+rated reactive power
+non radioactive tracer
+land
+inverter efficiency
+AMO condition
+tidal current energy
+common sample
+gear pair
+simplex transmission
+betatron
+reformer
+nuclear incident
+solar cell panel
+nuclear constant
+nuclear research
+flling
+alpha ratio
+absolute radiometer
+pitch circle
+nuclear mockup
+neutron proton interaction
+inverter
+neutron hodoscope
+standstill
+thunderstorm
+coupling
+nitrous oxide
+aggregate
+diameter and radius
+geothermal resources
+nuclear fuel refinement
+internal resistance
+groundwater heat exchanger system
+safety valve
+acceptance test
+vented system
+fuel cell / battery hybrid system
+radiant exitance
+nuclear binding energy
+tip circle
+secondary standard pyranometer
+salinity cell
+surge attester ; lightning arrester
+geothermal well logging
+poisoning
+overall energy (total thermal efficiency)
+neutron reemission
+nuclear moment of inertia
+power response time
+pump
+support structure for wind turbine
+curve corrction coefficiency
+precipitation
+oblique impact
+tension
+relative thickness of airfoil
+geothermal anti-corrosion
+short stack
+resonance integral
+forestry residue
+operation panel
+saturation characteristic
+observer
+salinity-gradient vapor-pressure power conversion
+general purpose diode
+the rate of qualified molded biofuel
+delta ray
+frequency flactaation range
+energy fluence rate
+aphelion
+nuclear properties
+bus-bar support
+nucleogenesis
+accelerated test
+electric circuit
+系actinium uranium series
+total mass stopping power
+Cloud condensation nuclear, CCN
+controlgear
+non radioactive
+inner conversion electron
+sensor
+defuel
+yawing angle of rotor shaft
+steam reforming；SR
+parking
+energy storage
+flow distortion
+idling
+nitrogen asimilation
+resonance energy
+occurrence
+single cell test
+tower
+number of teeth
+AC synchronous electrical machine
+resistivity
+length of blade
+harmonic current
+nucleon collision
+reinjection well
+point absorber (wave energy conversion device)
+mass excess
+nuclear counter
+thermal neutron
+half-duplex transmission
+phase
+flexible gear
+neutron source interlock
+prompt neutron fraction
+isotopic equilibrium
+normal operating loss
+tidal current ; tidal stream
+pyrheliometer
+flask sampling
+normal band
+ingot
+nuclear reactor safety criteria
+nucleus emulsion microscope
+noise level
+utilization of tidal power
+objective of iaea safeguards
+electrical wire and cable
+annual average
+energy from salinity gradients
+nuclear waste disposal
+radiative inelastic scattering
+measurement sector
+effective half-life
+tapping
+minicomputer program
+normal atom
+close—coupled system
+closed power plant of energy from salinity gradients
+normal shut down safety assembly
+azimuth mounting
+pyrradiometer
+combined heat and power generation; CHP
+corrosion resistance tests
+interconnection
+tilt angle of rotor shaft
+temperature coefficient
+isotopic composition
+residual current
+capacitor
+energy plant
+radiometric analysis
+voltage
+weak interaction
+constant voltage charge
+background atmosphere
+insulating bushing
+fuel cell hybrid electric vehicle
+solar cell module area
+intrinsic fill factor (theoretical fill factor)
+of blade
+thermal stability
+internal gear
+period
+radiation
+radionuclide
+standard atmospheric state
+geothermal reserves
+nuclear power cost
+plasma spectrometer
+steaming ground
+coefficient of radioactive equilibrium
+nuclear field theory
+ocean disposal
+AM optical air mass
+particle motion convertor
+fuel cell stack efficiency
+scattering
+nuclear medicine
+nonaxisymmetric torus
+load following operation
+secondary cell
+Solar
+catalyst poisoning
+increment
+neutron monitoring system
+useful life
+nuclear shell
+rotor speed (for wind turbine)
+proof voltage
+total power
+nuclear fuel services plant
+sulphur
+nuclear technique
+geometrical concentrator ratio
+nuclear winter
+specific surface area
+nuclear safety standards
+conditioning
+non application of safeguards
+inorganic sulfur； mineral sulfur
+assembling loss
+becquerel (Bq)
+annihilation radjation
+vacuum
+nuclear rocket
+nuclear era
+tidal turbine pump station
+neutron transport equation
+nuclear level spacing
+hot time
+nuclear rearrangement
+nuclear engineering
+amplifier
+decontamination
+gas diffusion layer；GDL
+synchrotron
+charge characteristics
+roller
+projected area of blade
+electromagnetic induction
+oscillatory line turbine
+amorphous silicon solar cell
+celestial coordinate system
+hot atom chemistry
+nuclear surface oscillation
+nuclear ecology
+stack rated pressure
+non leptonic decay
+calibration
+TTV
+nuclear fragment
+passive yawing
+ball-eye
+pipe heat exchanger system
+geothermal space heating
+nuclear siting policy
+capture gamma radiation
+hot start
+electromagnetic interference; EMI
+solar photovoltaic energy system
+active area of a solar cell
+direct solar irradiance ； beam solar irradiance
+series-connected system
+storage ring
+air stoichiometric ratio
+regulating mechanism of turning wind rotor out of the wind sideward
+Y transition
+stage-of-charge; SOC
+spectral particle fluence rate
+velocity amplitude
+integral collector-storage system ， ICS system
+fuel cell module
+real—time outdoor exposure testing
+thermonuclear reaction
+nuclear auxiliary power unit system
+steady solar simulator
+nuclear reactor technology
+barn
+neutron lifetime
+neutron measurement
+(fuel cell) polarization
+gas chromatography-mass spectrometer system;GC-MS
+non escape probability
+complete fuel cell vehicle diagram
+direct voltage
+rash current
+stable tracer
+neutron pulse
+nuclear spin quantum number
+roller
+critical damping
+non conservation of parity
+efficiency
+biomass heating value
+battery overheat warning device
+neutron radiation
+creepage distance
+mean solar day
+charging energy
+solar cell
+hot probe method
+distance
+precipitant dust
+nuclear compressibility
+passive state
+geothermal corrosion
+slow neutron
+observation error
+neutron physics
+rotor diameter
+idle state
+heat rate
+nuclear state
+oblique projection
+bioethanol
+specific power
+routine test
+load profile discharge
+ash
+nuclear rotational energy
+output power
+synchronism
+nuclear isomer
+standing wave linac
+seed
+screen display
+mean low tide level
+booster
+star connection
+biopower
+sea current
+solar fraction
+volatiles
+Grid-Connected-photovoltaic
+DC
+spectral particle flux density
+discharged energy
+start-up
+life
+activation
+electrical discharge
+braking
+overall exergy efficiency
+switching
+IR loss
+celestial equator
+reflected solar irradiance
+dead end flow
+lighting protection system
+alkaline fuel cell
+fractionation
+nuclear data unit
+productivity
+dopant
+feathering
+air bleed
+catalyst sintering
+programmable
+safety helmet
+mesonic atom
+self-shielding
+Inhale partilulate,IP
+gust influence
+artificial radionuclide; artificial radioactive nuclide
+coid state
+black start
+slurry exchange
+voltage change factor
+thermal runaway
+global calibrating method
+nuclear interaction
+vehicle control unit
+blade losses
+safe distance
+losses
+change-over circuit
+tectonic heat
+nuclear data sheet
+second class pyranometer
+radioactive decay
+magmatic heat
+wind velocity
+flexible
+maximum measured power
+nuclear armament
+geothermal gradient
+pressure control valve
+terminal voltage
+Ozone content
+wind turbine generator system WTGS
+grazing angle
+operating time
+nuclear charge number
+nuclear deformation
+occupational disease
+as received basis
+voltage
+power control
+lower flammability limit； LFL
+solar concentrator
+visual ins
+power performance
+repair sleeve
+operational environment
+micro fuel cell power unit
+hour circle
+nominal operating cell temperature
+random sampling
+non crossing rule of potential curve
+standstill
+compressed air
+absorption
+nuclear power reactor
+limiting value
+mean current energy density of time
+external conditions (for wind turbine)
+activation power (for wind turbine)
+Ressel rectifier wave energy conversion device;
+conceptual model
+nuclear magnetism
+calibrating
+transformer
+nucleon recoil
+Doppler efect
+non-solar-specific
+nuclear safety information center
+carbonecous aerosol
+to isolate
+engagement ; mesh
+lot
+continuous operation
+edge
+passenger compartment
+instantaneous measured
+hot spring
+transmissivity
+fail-safe
+over-current protective device
+wave
+neutron polarization
+ohmic polarization
+Solar Heating
+high voltage relay
+nominal value
+on-board charger ； OBC
+extraction chromatographic separation
+synchronous machine
+emission
+wave elements
+earth-termination system
+test portion
+rated discharge
+rotationally sampled wind velocity
+neutron radiobiology
+constant current operation
+instantaneous measured
+tip of blade
+electrocatalyst support
+basic err
+neutron reaction
+gluon
+event information
+parking brake (for wind turbine)
+atomic mass
+nuclear ground state
+black body
+splined coupling
+biorefinery
+prompt neutron
+fission isomer
+support structure (for wind turbine)
+rated frequency
+pitch angle
+internal gear pair
+power cable
+data set for power performance measurement
+worm wheel
+electromagnetic braking system
+leading edge
+trip-free
+magnetograph
+dynamic coupling
+reliability
+transient current
+humidity
+scale parameter
+non compliance
+non breeder reactor
+the family of airfoil
+thermonuclear reaction condition
+signal lamp
+mass defect
+mean wind speed
+safety system
+ammonium aerosol
+water vapor
+wave rose
+T-connector
+full load current
+photoproton
+octet
+nuclear ventilation system
+normal operation
+total hydrogen
+humidifier
+nuclear electric propulsion
+absorptivity
+Volts
+neutron scintillator
+control valve
+battery level warning device
+insulant
+ageing tests
+total carbon
+notation
+lightning protection zone
+nuclear non proliferation
+base load operation
+nuclear effective temperature
+nivenite
+neutron resonance absorption
+die
+shade disk
+flow field
+terrestrial radiation
+normal braking system
+thrust coefficient
+load
+syngas
+neutron reflection
+starting power at low temperature
+photonuclear reaction
+nucleus bond energy
+ternary fission
+elastic scattering
+activation polarization
+displacement amplitude
+normal incidence
+phosphoric acid fuel cell；PAFC
+neutrons per absorption
+battery carrier
+off-board charger
+reproducibility
+protection spectacles
+collision density
+nuclear transparency
+thickness function of airfoil
+unintended starting
+radioactive equilibrium
+precipitable water vapour content
+monitored information
+diurnal variation
+biochar
+neutron ionization chamber
+notification
+terrestrial irradiance
+proton exchange membrane fuel cell；PEMFC
+regenerative fuel cell
+white body
+nuclear weapon
+geothermal well
+test site
+nuclear explosion
+neutron life cycle
+center distance
+nuclear instrumentation
+water heater
+initial capacity
+net electric power output
+nucleon therapy facility
+logging residues
+nuclear pure
+leakage
+speed increasing gear
+flutter
+transfer ratio
+nuclear shielding
+wind rotor
+aerodynamic characteristics of rotor
+resistance
+nonuniform distribution factor
+ocean energy test berth
+standard conditions
+extreme
+overhead power
+electrolyte leakage
+neutron multiplication
+high power traction battery
+fission product
+clevis
+ion chromatography，IC
+hydrothermal carbonization
+solar tracker
+nuclear facility
+number of blades
+basic protection
+bit
+nominal module voltage
+gas chromatography-flame ionization detector observation system;GC-FID
+non elastic cross section
+shielded nuclide
+secondary concentrator
+reservoir
+ε emittance
+control system
+nonvortical field
+nuclear reacor
+radiation chemical yield
+module efficiency
+failure
+nose
+ambient air
+switching operation
+mechanical rotating salinity gradient energy conversion
+neutron reaction rate
+nuclear surface
+number of transfer units
+radiance
+hydraulic fluid
+safety color
+cell or stack life
+absolute cavity radiometer
+uncertainty in measurement
+humidification
+neutron scintillation counter
+torque control
+neutron width
+external power supply
+main contact
+strong interaction
+reliability determination
+parasitic capture
+frequency of wind speed
+meanhightidelevel
+trickle charge
+dive motor system
+stress
+neutron transport theory
+geothermal fluid
+field test with turbine
+neutron proton exchange forces
+nuclear stability curve
+non detection probability
+open-circuit characteristic
+nuclear power complex
+first class pyranometer
+conductivity
+prime mover device
+commissioning test
+wave energy
+charging voltage
+real time
+non destructive testing
+single cell
+nuclear detonation
+radiation polymerization
+furnace
+to load
+maximum—power voltage
+thermal optical carbon analysis
+light scattering
+nuclear bomber
+working earthing
+nuclear superheating
+nondestructive measurement
+current sensor
+heat transfer fluid
+reliability determination test
+nuclear fission threshold
+busbar
+DC series electrical machine
+analogue board
+direct methanol fuel cell ；DMFC
+maximum allowable working pressure；MAWP
+nuclear bank
+carrier
+hyperon
+steam jet refrigerating machine
+types of solar heating systms
+neutron monitor
+inherent ash
+non relativistic approximation
+neutron generator
+nuclear fuel resources
+winding
+power conditioning unit
+slicing
+control circuit
+nuclear agro industrial complex
+seam welding machine
+observation well
+multiple scattering
+direct irradiance
+radiant intensity
+Fresnel collector
+power plant of energy from salinity gradients of mixer in the inside
+nuclear park
+fissionable nuclide
+direct system
+amplitude
+nuclear potential
+switch
+corrosion of metals
+reduced neutron width
+hydrofluorocarbons; HFCs
+back-scattering
+nuclear weapon state
+electric vehicle；EV
+control desk
+input power
+normal solution
+non radioactive isotope
+p-delayed fission
+linear accelerator; linac
+sulfur hexafluoride
+brake(for wind turbine)
+maximum permitted
+secondary voltage
+bus-bar expansion
+nuclear rotation band
+shutdown
+neutron stimulated fission
+nuclear pharmacology
+wave energy power matrix
+allowable differential working pressure
+wound rotor
+nitrate aerosol
+open-air climate
+control gear
+electromagnetic disturbance
+bioenergy; biomass energy
+bund-atom cross section
+specific energy density
+root of blade
+salinity gradient energy
+nuclear fuel element
+neutron reproduction
+electron capture .
+nuclear data
+Total suspended particulate,TSP
+inelastic scattering
+temperature rise
+AC charging energy
+electric cabinet
+nuclear criticality
+cut-out wind speed
+switch board
+nuclear magnetic resonance
+nuclear surface burst
+availability(for WTGS)
+biogas
+ocean salinity gradient
+accelerator
+flicker coefficient for continuous operation
+non isotopic carrier
+semipermeable membrane
+protection system (for WTGS)
+over-voltage protection
+beam cooling
+nuclear atom
+active layer
+neutron transmutation doping
+thermal management system
+external power supply
+neutron therapy
+ocean thermal energy
+chopper
+storage characteristics
+fuel utilization
+conductive part
+gear pump
+asynchronous generator
+driving-enabled mode
+planetary gear drive mechanism
+repair time
+heat source
+mass energy-absorption coefficient
+preventive maintenance
+planar cell
+ocean thermal energy utilization
+load current
+total cross section
+rated operational current
+isotopic abundance
+mean current energy density in position
+fractional energy savings
+mass energy-transfer coefficient
+photovoltaic effect
+double-way sluice
+nuclear catastrophe
+number of theoretical stages
+electrostatics
+isomeric state
+desulfurizer
+nuclear aircraft
+mode of operation
+nuclear form factor
+alternating voltage
+neutron-deficient nuclide
+nuclear materials transfer report
+hydrogen permeation
+nuclear bomb
+capacity C
+ocean current energy
+cell
+maximum power of wind turbine
+control system (for wind turbine)
+drip line
+high voltage precharge resistor
+geothermal scale prevention
+WMO secondary standard
+state information
+the degree of actual loss
+flexible rolling bearing
+nuclear accident
+agricultural residue
+reflection coefficient ）
+maximum torque coefficient
+reproducibility
+self-absorption factor
+shutdown (for wind turbine)
+roughness length
+differential cell pressure
+nucleus shell structure
+non regenerative reactor
+synchrocyclotron
+mounting cabin for energy storage system
+SPA and bathing
+nuclear astrophysics
+charged particle activation analysis (CPAA)
+rotor solidity
+nuclear rounds
+mirror nuclei
+Doppler broadening
+nuclear tipped missile
+wind energy
+black liquor
+ionization
+redundancy
+angle of incidence
+draindown system
+obstruction
+nuclear current density
+nuclear power plant
+nuclear fuel
+nuclear quality assurance
+nuclear electromagnetic moment
+basic insulation
+chlorofluorocarbons ;CFCs
+gas crossover
+non magic nucleus
+electronic load
+nuclear risk
+absolute–spectral–sensitivity characteristic
+nuclear power submarine
+nuclear amplitude
+reservoir temperature
+cooling equipment
+collider ; colliding beam accelerator
+flat － plate collector
+cumulative fission yield
+neutron yield per absorption
+power conditioning system
+horizontal axis wind turbine
+occlusion
+volum specific power
+weighted sound pressure level; sound level
+residual current circuit-breaker
+direct pumping
+switching
+nuclear event
+neutron monitoring
+azimuth
+cost per kilowatt hour of the electricity generated by WTGS
+astronomical unit
+isohel
+fuel cell
+area of reservoir
+temperature characteristics
+date circuit
+radiometer
+absolute humidity
+nuclear matter
