@@ -42,6 +42,11 @@
 
 # 新能源领域专利术语库样例展示及数据量统计
 
+|列名1|列名2|
+|:---|:---|
+|列1的内容1|列2的内容1|
+|列1的内容2|列2的内容2|
+
 |语料库|源语(Zh)||目标语(En)|句子数|
 |:---|:---|
 |SP_Corpus|本实用新型结构简单,抗外界干扰强,能够快速准确地测定生物质基调和燃料蒸馏数据,同时获得燃料的蒸气压数据||The utility model discloses simple structure, antidisturbance from environment isstrong, can accurately survey living beings fundamental key and fuel boiling range data fast,obtains the vapour pressure data of fuel simultaneously.|25572|
