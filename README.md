@@ -3,7 +3,7 @@
 
 ```
 ├── 新能源领域专利语料库和术语库 
-│       ├── AP_Corpus 
+│   ├── AP_Corpus 
 │       ├── AP_Corpus_all_en.txt 
 │       └── AP_Corpus_all_zh.txt 
 │   ├── SP_Corpus+AP_Corpus 
