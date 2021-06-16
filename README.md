@@ -1,3 +1,6 @@
+
+# 文件目录结构 
+
 # 25MB以上的数据限制上传,已上传在百度网盘 
 
 ## 混合语料中文数据集 SP_Corpus+AP_Corpus_all_en 
@@ -5,8 +8,10 @@
 链接：https://pan.baidu.com/s/1kIQZcmc4pJyAFkda_1KXPg 
 提取码：am1p 
 
-# 文件目录结构
+## 107w单语语料数据 
 
+链接：https://pan.baidu.com/s/19bU_ctVluGkB1eGJDz8LzA 
+提取码：2b8e 
 
 # 新能源领域专利语料库和术语库的构建流程 
 
