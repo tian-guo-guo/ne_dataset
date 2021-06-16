@@ -1,22 +1,38 @@
 
 # 文件目录结构 
 
-├── 新能源领域专利语料库和术语库
-│   ├── AP_Corpus
-│       ├── AP_Corpus_all_en.txt
-│       └── AP_Corpus_all_zh.txt
-│   ├── SP_Corpus+AP_Corpus
-│       └── SP_Corpus+AP_Corpus_all_zh.txt
-│   ├── SP_Corpus
-│       ├── SP_Corpus_all_en.txt
-│       └── SP_Corpus_all_zh.txt
-│   ├── all_terms
-│       ├── all_terms_true_en_3744.txt
-│       └── all_terms_true_zh_3744.txt
-│   └── final_soopat_terms
-│       ├── final_soopat_terms_39861.txt
-│       └── final_soopat_terms_39861_WIPO.txt
-└── README.md
+├── 新能源领域专利语料库和术语库 
+
+│   ├── AP_Corpus 
+
+│       ├── AP_Corpus_all_en.txt 
+
+│       └── AP_Corpus_all_zh.txt 
+
+│   ├── SP_Corpus+AP_Corpus 
+
+│       └── SP_Corpus+AP_Corpus_all_zh.txt 
+
+│   ├── SP_Corpus 
+
+│       ├── SP_Corpus_all_en.txt 
+
+│       └── SP_Corpus_all_zh.txt 
+
+│   ├── all_terms 
+
+│       ├── all_terms_true_en_3744.txt 
+
+│       └── all_terms_true_zh_3744.txt 
+
+│   └── final_soopat_terms 
+
+│       ├── final_soopat_terms_39861.txt 
+
+│       └── final_soopat_terms_39861_WIPO.txt 
+
+└── README.md 
+
 
 # 25MB以上的数据限制上传,已上传在百度网盘 
 
