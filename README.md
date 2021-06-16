@@ -21,6 +21,7 @@
 ```
 
 <hr/>
+
 # 25MB以上的数据限制上传,已上传在百度网盘 
 
 ## 混合语料中文数据集 SP_Corpus+AP_Corpus_all_en 
@@ -34,6 +35,7 @@
 提取码：2b8e 
 
 <hr/>
+
 # 新能源领域专利语料库和术语库的构建流程 
 
 ![image](https://user-images.githubusercontent.com/25188382/121811356-c360e500-cc96-11eb-9171-93561dece8e5.png)
