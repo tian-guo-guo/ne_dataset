@@ -1,3 +1,10 @@
+# 25MB以上的数据限制上传,已上传在百度网盘 
+
+## 混合语料中文数据集 SP_Corpus+AP_Corpus_all_en 
+
+链接：https://pan.baidu.com/s/1kIQZcmc4pJyAFkda_1KXPg 
+提取码：am1p 
+
 # 文件目录结构
 
 
