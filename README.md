@@ -52,25 +52,15 @@
 
 # 新能源领域专利术语库数据量统计及样例展示 
 
-|Zh|En|
-|:---|:---|
-|天然放射性元素|natural radioactive element|	
-|气体密封|gas seal|
-|中子泄漏|neutron leakage|	
-|太阳表|solarimeter|
-|地热流体|geothermal fluid|	
-|主触头|main contact|
-|地热能|geothermal energy|	
-|太阳跟踪器|solar tracker|
-|中子反应率|neutron reaction rate|	
-|生物质能|bioenergy|
-|浅层地热能|shallow geothermal energy|	
-|核半径|nuclear radius|
-|动力蓄电池系统|power battery system|	
-|滤波器|filter|
-|风能利用系数|rotor power coefficient|	
-|光生电压|photovoltage|
-|中子源反应堆|neutron source reactor|	
-|生物质燃料|biofuels|
-|交流感应电机|AC induction electrical machine|
-|继电器|relay|
+|Zh|En|Zh|En|
+|:---|:---|:---|:---|
+|天然放射性元素|natural radioactive element|	浅层地热能|shallow geothermal energy|	
+|气体密封|gas seal| 核半径|nuclear radius|
+|中子泄漏|neutron leakage|动力蓄电池系统|power battery system|
+|太阳表|solarimeter|滤波器|filter|
+|地热流体|geothermal fluid|风能利用系数|rotor power coefficient|
+|主触头|main contact|光生电压|photovoltage|
+|地热能|geothermal energy|中子源反应堆|neutron source reactor|
+|太阳跟踪器|solar tracker|生物质燃料|biofuels|
+|中子反应率|neutron reaction rate|交流感应电机|AC induction electrical machine|
+|生物质能|bioenergy|继电器|relay|
