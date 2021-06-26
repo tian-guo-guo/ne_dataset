@@ -1,15 +1,17 @@
+上述为部分数据集示例，如果需要全部数据集，请与我们联系，Email：yanghaixiang1121@163.com
+
 
 # 文件目录结构 
 
 ```
 ├── 新能源领域专利语料库和术语库 
 │   ├── AP_Corpus 
-│       ├── AP_Corpus_all_en.txt 
+│       ├── AP_Corpus_all_en.txt
+│       ├── AP_Corpus_all_pic.png
 │       └── AP_Corpus_all_zh.txt 
-│   ├── SP_Corpus+AP_Corpus 
-│       └── SP_Corpus+AP_Corpus_all_zh.txt 
 │   ├── SP_Corpus 
 │       ├── SP_Corpus_all_en.txt 
+│       ├── SP_Corpus_all_pic.png 
 │       └── SP_Corpus_all_zh.txt 
 │   ├── all_terms 
 │       ├── all_terms_true_en_3744.txt 
@@ -22,19 +24,6 @@
 
 <hr/>
 
-# 25MB以上的数据限制上传,已上传在百度网盘 
-
-## 混合语料中文数据集 SP_Corpus+AP_Corpus_all_en 
-
-链接：https://pan.baidu.com/s/1kIQZcmc4pJyAFkda_1KXPg 
-提取码：am1p 
-
-## 107w单语语料数据 
-
-链接：https://pan.baidu.com/s/19bU_ctVluGkB1eGJDz8LzA 
-提取码：2b8e 
-
-<hr/>
 
 # 新能源领域专利语料库和术语库的构建流程 
 
