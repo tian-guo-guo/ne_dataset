@@ -53,3 +53,5 @@
 |太阳跟踪器|solar tracker|生物质燃料|biofuels|
 |中子反应率|neutron reaction rate|交流感应电机|AC induction electrical machine|
 |生物质能|bioenergy|继电器|relay|
+
+[![Security Status](https://www.murphysec.com/platform3/v3/badge/1617617828870402048.svg?t=1)](https://www.murphysec.com/accept?code=ee13d85adbff39f1d48655181fbff675&type=1&from=2&t=2)
